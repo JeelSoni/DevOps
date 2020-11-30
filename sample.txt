@@ -1,1 +1,1 @@
-This is version 2 of Git devops training.
+This is version 3 of Git devops training.
